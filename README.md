@@ -113,4 +113,4 @@ This analysis demonstrates skills applicable to:
 
 ---
 
-*Analysis completed December 2025. Data source: Yahoo Finance via yfinance API. Assitance provdided by Anthropic's Claude*
+*Analysis completed December 2025. Data source: Yahoo Finance via yfinance API. Assistance provdided by Anthropic's Claude*
