@@ -1,10 +1,10 @@
 # Stock Market Trend Analysis: Tech vs Banking (2015-2025)
 
-## 📊 Project Overview
+## Project Overview
 
 A comprehensive 10-year comparative analysis of technology and banking sector stocks using Python, Pandas, and data visualization. This project analyzes historical stock performance, calculates risk-adjusted returns, and identifies key trends across two major market sectors.
 
-## 🎯 Analysis Goals
+## Analysis Goals
 
 - Compare long-term performance of tech vs banking stocks
 - Calculate risk-adjusted returns (Sharpe-like ratios)
@@ -12,7 +12,7 @@ A comprehensive 10-year comparative analysis of technology and banking sector st
 - Analyze sector correlations and diversification benefits
 - Visualize cumulative returns and risk/return relationships
 
-## 📈 Stocks Analyzed
+## Stocks Analyzed
 
 **Technology Sector:**
 - AAPL (Apple)
@@ -28,7 +28,7 @@ A comprehensive 10-year comparative analysis of technology and banking sector st
 - C (Citigroup)
 - GS (Goldman Sachs)
 
-## 🔑 Key Findings
+## Key Findings
 
 ### Top Performer
 - **NVDA (Nvidia):** 66.8% annual return with 49.9% volatility
@@ -53,7 +53,7 @@ A comprehensive 10-year comparative analysis of technology and banking sector st
 4. COVID-19 (2020) significantly impacted banking stocks with slower recovery
 5. AI revolution (2023+) created massive divergence in tech stock performance
 
-## 📊 Visualizations
+## Visualizations
 
 ![Stock Market Analysis](stock_analysis.png)
 
@@ -63,7 +63,7 @@ A comprehensive 10-year comparative analysis of technology and banking sector st
 - **Bottom-Left:** Risk vs Return scatter plot highlighting tech's superior positioning
 - **Bottom-Right:** Sector comparison showing tech's clear performance advantage
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 **Tools & Libraries:**
 - **Python 3.12**
@@ -80,7 +80,7 @@ A comprehensive 10-year comparative analysis of technology and banking sector st
 - Cumulative returns over 10-year period
 - Sector correlation coefficients
 
-## 📁 Project Structure
+## Project Structure
 ```
 stock-market-trend-analysis/
 │
@@ -89,19 +89,19 @@ stock-market-trend-analysis/
 └── README.md                     # Project documentation
 ```
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
 2. Install required libraries: `pip install pandas numpy matplotlib yfinance`
 3. Open `stock_analysis.ipynb` in Jupyter Notebook or VS Code
 4. Run all cells to reproduce the analysis
 
-## 💡 Business Applications
+## Business Applications
 
 This analysis demonstrates skills applicable to:
-- **Portfolio Management:** Identifying optimal asset allocation strategies
-- **Risk Assessment:** Quantifying and comparing investment volatility
-- **Sector Analysis:** Understanding industry-level performance trends
+- **Portfolio Management:** Identifying optimal asset allocation strategies (for now)
+- **Risk Assessment:** Quantifying and comparing investment volatility 
+- **Sector Analysis:** Understanding industry-level performance trends 
 - **Data-Driven Decision Making:** Supporting investment recommendations with quantitative evidence
 
 ## 📧 Contact
